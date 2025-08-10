@@ -19,7 +19,7 @@ This is a solution to the [Testimonials grid section](https://www.frontendmentor
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://mihaisvn.github.io/Four-card-feature-section/)
+- Live Site URL: [GitHub Pages](https://mihaisvn.github.io/Testimonials-grid-section/)
 
 
 ### Built with
